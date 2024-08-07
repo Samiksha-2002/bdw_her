@@ -1,0 +1,11 @@
+{
+    "name": "MindSet",
+    "alias": "mindset",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MindSet\\app\\Providers\\MindSetServiceProvider"
+    ],
+    "files": []
+}
